@@ -67,7 +67,7 @@ const Login = ({ history }) => {
               </div>
             ) : (
               <FacebookLogin
-                appId="393120920074896"
+                appId="711131074473365"
                 autoLoad={true}
                 fields="name,email,picture"
                 scope="pages_manage_metadata,pages_manage_engagement,pages_messaging,pages_read_engagement,pages_read_user_content,pages_show_list,pages_manage_cta"
