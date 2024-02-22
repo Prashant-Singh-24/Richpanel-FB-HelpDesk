@@ -21,20 +21,21 @@ const FBSampleData = [
     fname: "Nitin",
     lname: "Sharma",
     email: "nitin.sharma123@gamil.com",
-    // profile: "./Images/avg indian male.webp",
+  
     type: "post",
     intro: {
-      title: "Available in store",
-      message: "Any stock for this product",
+      title: "Facing isue regarding FB market place.",
+      message: "I am not able to upload pictures of my product.",
     },
 
     chats: [
-      ["Is it in stock right now?"],
+      ["How, can I upload my product photoes on FB market place?"],
       [
-        "We've 3 left in stock!",
-        "If you order before 8PM we can ship it today.",
+        "Try to refresh the pages.",
+        "If you won't able to do that again then restart your device.",
       ],
-      ["Another message"],
+      ["Ok, I'll try that!"],
+      ["Yes if it won't works please do let us know!"]
     ],
   },
   {
@@ -44,14 +45,14 @@ const FBSampleData = [
     lname: "Singh",
     email: "ars@gmail.com",
     intro: {
-      title: "Awesome product",
-      message: "Hey there is it available.",
+      title: "Name change problem",
+      message: "Facing problem regarding name change.",
     },
-    // profile: "./Images/main-qimg-a7d12a8a1b65ebc02979174e3715b9df-pjlq.jpg",
+
     chats: [
-      ["new message"],
-      ["user answer", "second answer"],
-      ["another message"],
+      ["Hello, I want help regarding the my FB name change!"],
+      ["Yes, go to the advance setting options", "There you might find an option of changing name!"],
+      ["Yes, It works!","Thanks!"],
     ],
   },
 ];
